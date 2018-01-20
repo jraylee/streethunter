@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#intelliJ
+*.iml
+.idea
+
 # C extensions
 *.so
 
